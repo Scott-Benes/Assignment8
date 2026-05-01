@@ -40,7 +40,7 @@ public class Circle extends Shape {
      */
     @Override
     public String toString(){
-        return "Circle[color=" + getColor() + ", size=" + getSize() + "]";
+        return "Circle(" + getColor() + ", " + getSize() + ")";
     }
 
     /**
