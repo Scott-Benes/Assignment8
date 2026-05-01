@@ -28,9 +28,9 @@ public class Circle extends Shape {
     public void draw(){
         colorShape();
 
-        for (int i = 0; i < 36; i++){
-            turtle.forward( getSize() / 6.0);
-            turtle.right(10);
+        for (int i = 0; i < 360; i++){
+            turtle.forward( getSize() * .02);
+            turtle.right(1);
         }
     }
 
