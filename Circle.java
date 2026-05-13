@@ -1,6 +1,7 @@
  /**
   * Circle class that extends the shape class
   * The class draws a circle using the Turtle class
+  * @author Scott Benes
   */
 
 public class Circle extends Shape {

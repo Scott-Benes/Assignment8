@@ -1,6 +1,7 @@
 /**
  * Abstract class representing a drawable shape
  * Uses the turtle class for each shape to draw itself
+ * @author Scott Benes
  */
 public abstract class Shape {
 
