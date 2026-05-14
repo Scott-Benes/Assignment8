@@ -1,5 +1,6 @@
 /** Represents a rectangle that is drawm using the turtle class
  * Has a width from Rectangle class and height inherited from Shape class (size)
+ * @author Emma Tenenbaum
  * 
  */
 

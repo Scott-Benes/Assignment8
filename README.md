@@ -58,11 +58,9 @@ Java project that uses the Turtle class to draw shapes using object-oriented pro
 ### Scott Benes
     -`Shape` class
     - `Circle` class
-    - `App.java1 main class
 ### Emma Tenenbaum
     - `Rectangle` class
     - **README.md**
-     - `App.java1 main class
 ### Jarren Mcknight
     - `Triangle` class
-    
+    - `App.java` main class
