@@ -5,8 +5,8 @@
 Java project that uses the Turtle class to draw shapes using object-oriented programming
 
 ## Features
--Abstract `Shape` class that all shapes share
--Concrete shape classes
+- Abstract `Shape` class that all shapes share
+- Concrete shape classes
    1. *Rectangle* class
    2. *Circle* class
    3. *Triangle* class
@@ -16,27 +16,31 @@ Java project that uses the Turtle class to draw shapes using object-oriented pro
    2. *Size*
    3. *Position*
 -Inheritance and Method overriding
--`App.java` main method
+- `App.java` main method
 
 ## Classes
 
 ### `Shape` (Abstract Class)
--Stores shared properties like color, size, and position
--Implements the Turtle library 
--Defines abstract method `draw()`
+- Stores shared properties like color, size, and position
+- Implements the Turtle library 
+- Defines abstract method `draw()`
 
 ### `Rectangle`
--Extends `Shape`
--Adds width
--Overrides `draw()`, `toString()`, and `equals()`
--Uses Turtle to draw rectangle
+- Extends `Shape`
+- Adds width
+- Overrides `draw()`, `toString()`, and `equals()`
+- Uses Turtle to draw rectangle
+
 
 ### `Circle`
--Extends `Shape`
+- Extends `Shape`
+- Uses size and color inherited from `Shape`
+- Overrides `draw()`, `toString()`, and `equals()`
+- Uses Turtle graphics to draw a circle
 
 
 ### `Triangle`
--Extands `Shape`
+- Extands `Shape`
 
 
 ## How to Run
@@ -48,11 +52,11 @@ Java project that uses the Turtle class to draw shapes using object-oriented pro
 
 
 ## Libraries
--`Turtle.java` by NICHOLAS SEWARD
+- `Turtle.java` by NICHOLAS SEWARD
 
 ## Authors
 ### Scott Benes
-    - `Shape` class
+    -`Shape` class
     - `Circle` class
     - `App.java1 main class
 ### Emma Tenenbaum
