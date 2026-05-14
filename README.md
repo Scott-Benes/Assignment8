@@ -49,8 +49,8 @@ Java project that uses the Turtle class to draw shapes using object-oriented pro
 3. Follow any prompts given
 
 ## Screenshots
-![Rectangle](rectangle.jpg) 
-![Circle](images/circle.jpg)
+![Rectangle](Rectangle.jpg) 
+![Circle] (Circle.jpg)
 
 
 ## Libraries
